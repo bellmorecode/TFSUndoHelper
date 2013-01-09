@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSUndoPendingHelper", "TFSUndoPendingHelper\TFSUndoPendingHelper.csproj", "{FC8DAF9D-F9F2-48AB-87E4-965B6A0583BB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sd-tfs2010.somethingdigital.com:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TFSUndoPendingHelper\\TFSUndoPendingHelper.csproj
+		SccProjectName1 = TFSUndoPendingHelper
+		SccLocalPath1 = TFSUndoPendingHelper
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8DAF9D-F9F2-48AB-87E4-965B6A0583BB}.Debug|x86.ActiveCfg = Debug|x86
+		{FC8DAF9D-F9F2-48AB-87E4-965B6A0583BB}.Debug|x86.Build.0 = Debug|x86
+		{FC8DAF9D-F9F2-48AB-87E4-965B6A0583BB}.Release|x86.ActiveCfg = Release|x86
+		{FC8DAF9D-F9F2-48AB-87E4-965B6A0583BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
